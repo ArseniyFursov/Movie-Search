@@ -1,0 +1,11 @@
+.main-conteiner{
+    margin: 0 auto;
+    margin-top: 40px;
+    padding: 0 20px;
+    width: 500px;
+}
+
+.wrapper-search{
+    display: flex;
+    flex-wrap: wrap;
+}
